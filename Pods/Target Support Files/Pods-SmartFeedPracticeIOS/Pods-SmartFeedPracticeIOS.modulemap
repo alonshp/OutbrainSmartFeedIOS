@@ -1,0 +1,6 @@
+framework module Pods_SmartFeedPracticeIOS {
+  umbrella header "Pods-SmartFeedPracticeIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
